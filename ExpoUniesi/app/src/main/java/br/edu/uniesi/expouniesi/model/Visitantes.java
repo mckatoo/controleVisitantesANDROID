@@ -1,12 +1,12 @@
 package br.edu.uniesi.expouniesi.model;
 
 public class Visitantes {
-    public int id;
-    public String nome;
-    public String email;
-    public String escola;
-    public String whatsapp;
-    public String curso_desejado;
+    private int id;
+    private String nome;
+    private String email;
+    private String escola;
+    private String whatsapp;
+    private String curso_desejado;
 
 
     public int getId() {

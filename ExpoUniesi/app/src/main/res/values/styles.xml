@@ -8,4 +8,13 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <string-array name="cursos">
+        <item>sdfjsaljfd</item>
+        <item>sdfjsa ljfd</item>
+        <item>sdfj saljfd</item>
+        <item>sdfjs al jfd</item>
+        <item>sdfj sdfa ljfd</item>
+        <item>sdf dfdfdf dfdf jsaljfd</item>
+    </string-array>
+
 </resources>
